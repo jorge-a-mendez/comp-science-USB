@@ -1,0 +1,5 @@
+Venezuela 29950000 espanol
+Argentina 41090000 espanol
+USA 313900000 ingles
+Nigeria 168800000 ingles
+Italia 60920000 italiano

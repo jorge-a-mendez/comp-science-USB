@@ -1,0 +1,16 @@
+- Un año es bisiesto si es multiplo de 4 pero no de 100, a menos que tambien sea de 400. Escribir un programa que reciba como entrada un año e indique si ese año es bisiesto o no. 
+
+- Escribir un programa que despliege un menu en la pantalla, permitiendo escoger entre las operaciones suma, multiplicacion y salir del menu. Nota la manera de emplear un menu es utilizando switch. Ejemplo
+              Menu de operaciones
+(1) suma
+(2) multiplicacion 
+(3) salir 
+Introduzca la opcion que desee 
+
+- Parte 1 escribir un programa que reciba tres enteros y determine si ellos pueden conformar un triangulo (la suma de cualquieras dos lados tiene que ser mayor al lado restante). Parte 2 partiendo del codigo anterior, determinar si el triangulo formado es equilatero, isoceles o escaleno, tratando de hacer uso de la menor cantidad posible de comparaciones. 
+
+- Escribir un programa que reciba como entrada tres numeros enteros e indique cual de ellos es el maximo y cual es el minimo. Nota aunque los tres numeros sean iguales hay un minimo y un maximo. 
+
+- Escribir un programa que reciba una hora en formato hh mm ss y le sume un segundo e imprima el resultado en pantalla. 
+
+- Un consumidor entra a una tienda y compra un articulo de un cierto precio (p) con un billete de 500. En la caja hay c_100 billetes de 100, c_50 de 50, c_10 de 10 y c_1 de 1. Escribir un programa que reciba los valores p, c_100, c_50, c_10 y c_1 e indique la cantidad de billetes v_100, v_50, v_10 y v_1 que debe entregarse al consumidor para dar el vuelto en la minima cantidad de billetes posible (dando la mayor cantidad posible de billetes de mayor valor). En caso de que no haya suficientes billetes en la caja para dar el vuelto, debe ser indicado tambien por pantalla. Nota NO utilizar ciclos. 

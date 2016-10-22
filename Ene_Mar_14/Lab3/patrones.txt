@@ -1,0 +1,10 @@
+113	Low Cash alert
+114	Running Out of notes in cassette
+115	empty
+116	Service mode entered
+117	Service mode left
+118	device did not answer as expected
+119	The protocol was cancelled
+120	Low Paper warning
+121	Printer Error
+122	Paper-out condition
